@@ -1,7 +1,6 @@
 ---
 title: Mike Jick
 timezone: America/Denver
-repository: bcnubes/flex
 collections:
   posts:
     title: Posts
@@ -9,6 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+repository: bcnubes/flex
 description: PGA Professional
 freetext: 
 baseurl: "/"
