@@ -1,6 +1,7 @@
 ---
 title: Mike Jick
 timezone: America/Denver
+repository: bcnubes/flex
 collections:
   posts:
     title: Posts
