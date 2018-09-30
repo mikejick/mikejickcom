@@ -1,0 +1,32 @@
+---
+title: Mike Juck
+timezone: America/Denver
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: PGA PRo
+freetext: Released under an MIT license - feel free to make pull requests.
+baseurl: "/"
+paginate: 3
+version: 0.1.0
+colorscheme: scheme-gulfracing
+ga: UA-123-456
+piwikSiteID: 
+piwikURL: 
+author:
+  url: mikejick.com
+  name: Mike Jick
+github:
+  repo: 
+gems:
+- jekyll-paginate
+exclude:
+- README.md
+- Gemfile.lock
+- Gemfile
+- "*.gemspec"
+- "*.gem"
