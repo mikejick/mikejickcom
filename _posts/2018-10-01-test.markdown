@@ -1,6 +1,0 @@
----
-title: test
-date: 2018-10-01 10:19:00 -06:00
----
-
-is the author here?
