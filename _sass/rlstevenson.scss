@@ -108,6 +108,12 @@ p {
 .sidebar .sidebar-menus li a {
 	text-decoration:underline;
 }
+.sidebar .logo {
+	  width: 100%;
+	  max-width: 240px;
+	  padding: 2em;
+	  margin: 0 auto;
+}
 @media (min-width: 768px) {
 	.sidebar {
 		top: 0;

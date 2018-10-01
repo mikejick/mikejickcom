@@ -1,6 +1,11 @@
 ---
 title: Dead Men
 date: 2018-10-01 09:44:00 -06:00
+categories:
+- Golf
+tags:
+- Tips
+- Drive
 ---
 
 ### Dead Men Don't Wear Plaid
