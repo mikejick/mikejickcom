@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-logoimage:
+logo_image: "/uploads/mikejick-logo.png"
 description: PGA Professional
 freetext: 30 years experience, Seasonally located in Garden Valley, Idaho and the
   Greater Los Angeles Area
