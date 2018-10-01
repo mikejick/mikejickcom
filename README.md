@@ -4,43 +4,6 @@ RLStevenson was built for people who like the original Jekyll theme [Hyde](https
 
 The theme was built from an empty Bootstrap 3 template with the goal of easy modification for end users. The code is as simple as possible - clearly formatted HTML and a single stylesheet. It's a two column responsive design and currently includes version 3.3.7 of Bootstrap.
 
-Pull requests are welcome.
-
-![RLStevenson Screenshot](http://i.imgur.com/yLkV7Ws.png)
-
-## Installation
-
-Add this line to your Jekyll site's Gemfile:
-
-```ruby
-gem "rlstevenson-jekyll-theme"
-```
-
-And add this line to your Jekyll site:
-
-```yaml
-theme: rlstevenson-jekyll-theme
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install rlstevenson-jekyll-theme
-
-The Ruby Gem page is here: [rlstevenson-jekyll-theme](https://rubygems.org/gems/rlstevenson-jekyll-theme)
-
-## Usage & Config Options
-
-There are a number of options you can set in your `_config.yml` file.
-
-The `description` variable will appear after the Title of your site in your `<title>` meta tag:
-
-	description: 'A two coloumn blog theme built with Bootstrap for Jekyll.'
-
-### Sidebar
 
 The `description` variable will also appear below the title in your sidebar.
 
@@ -60,10 +23,6 @@ Alternatively you can disable pagination by not including the `paginate:` option
 
 ### Color Schemes
 
-In keeping with our attempt to replicate the original Hyde in Bootstrap we've included some colour scheme options. These are not the same as in the original, but we used palettes from the same [Base16](https://github.com/chriskempson/base16) project.
-
-![RLStevenson in Gulf Racing](http://i.imgur.com/ktfByqp.png)
-
 Using a theme is as simple as changing the `colorscheme` param in your `_config.yml`.
 
 The themes are:
@@ -73,8 +32,6 @@ The themes are:
 - Green (`colorscheme:		'scheme-green'`)
 - Orange (`colorscheme:		'scheme-orange'`)
 - Slate (`colorscheme:		'scheme-slate'`)
-
-And then a bonus theme that isn't from Base16:
 
 - Gulf Racing (`colorscheme:	'scheme-gulfracing'`)
 
@@ -119,8 +76,8 @@ Here is a full example `_config.yml`:
 	piwikURL:	''
 
 	author:
-	 url:		https://www.exchangerate-api.com
-	 name:		'ExchangeRate-API'
+	 url:		
+	 name:		
 
 	gems:		[jekyll-paginate]
 
