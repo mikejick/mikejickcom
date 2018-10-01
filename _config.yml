@@ -11,6 +11,14 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    author: 
 logo_image: "/uploads/mikejick-logo.png"
 description: PGA Professional
 freetext: 30 years experience, Seasonally located in Garden Valley, Idaho and the
@@ -35,11 +43,3 @@ exclude:
 - Gemfile
 - "*.gemspec"
 - "*.gem"
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/blog/:title/"
-    layout: post
-    author: 
