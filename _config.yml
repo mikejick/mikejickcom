@@ -8,6 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+logoimage: 
 description: PGA Professional
 freetext: 30 years experience, Seasonally located in Garden Valley, Idaho and the
   Greater Los Angeles Area
