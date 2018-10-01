@@ -1,5 +1,9 @@
 
 	<div class="sidebar-content">
+		
+		{% if site.logo_image != '' %}
+		<a href="{{ site.baseurl }}"><img src="{{ site.logo_image }}" alt="{{ site.title }}" ></a>
+		{% endif %}
 
 		<a href="{% if site.baseurl != '' %}{{ site.baseurl }}/{% else %}/{% endif %}"><h1>{{ site.title }}</h1></a>
 		<p>{{ site.description }}</p>
