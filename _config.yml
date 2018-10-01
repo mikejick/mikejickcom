@@ -1,5 +1,5 @@
 ---
-title: Mike Jick
+title: Mike Juck
 timezone: America/Denver
 collections:
   posts:
@@ -8,14 +8,13 @@ collections:
   uploads:
     title: Uploads
     output: true
-repository: bcnubes/flex
-description: PGA Professional
-freetext: 
+description: PGA PRo
+freetext: Released under an MIT license - feel free to make pull requests.
 baseurl: "/"
 paginate: 3
 version: 0.1.0
 colorscheme: scheme-gulfracing
-ga: 
+ga: UA-123-456
 piwikSiteID: 
 piwikURL: 
 author:

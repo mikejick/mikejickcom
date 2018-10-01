@@ -1,6 +1,6 @@
 ---
 title: Testing Pages
-date: 2016-08-02 00:00:00 Z
+date: 2016-08-01 18:00:00 -06:00
 layout: post
 author: ExchangeRate-API
 ---

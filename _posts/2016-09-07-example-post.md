@@ -1,6 +1,6 @@
 ---
 title: RLStevenson Jekyll Theme
-date: 2016-09-07 00:00:00 Z
+date: 2016-09-06 18:00:00 -06:00
 layout: post
 author: ExchangeRate-API
 ---
