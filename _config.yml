@@ -2,12 +2,23 @@
 title: Mike Jick
 timezone: America/Denver
 collections:
+  authors:
+    title: Authors
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    author: 
 logo_image: "/uploads/mikejick-logo.png"
 description: PGA Professional
 freetext: 30 years experience, Seasonally located in Garden Valley, Idaho and the
