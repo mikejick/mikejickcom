@@ -35,3 +35,11 @@ exclude:
 - Gemfile
 - "*.gemspec"
 - "*.gem"
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    author: 
