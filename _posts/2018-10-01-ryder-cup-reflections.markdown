@@ -6,4 +6,3 @@ categories:
 ---
 
 **What were they thinking?!**
-
