@@ -8,8 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: PGA PRo
-freetext: Released under an MIT license - feel free to make pull requests.
+description: PGA Professional
+freetext: 30 years experience, Seasonally located in Garden Valley, Idaho and the
+  Greater Los Angeles Area
 baseurl: "/"
 paginate: 3
 version: 0.1.0
